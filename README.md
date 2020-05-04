@@ -1,10 +1,11 @@
-<h1 align="center"><img src="IMG/logo.png" alt="logo be the hero"/>
-<h1 align="center">App Be The Hero</h1>
+<h1 align="center"><img src="IMG/logo.svg" alt="logo be the hero"/>
+<h1 align="center">Be The Hero by Semana Omnistack</h1>
 
 <h2>Através da Semana OmniStack 11ª, foi possível criar uma aplicação tanto mobile quando web para ONGS com doadores. A 11ª edição da Semana OmniStack, ocorreu no início de 2020.
 Em uma semana foi desenvolvida essa aplicação foi desenvolvida do zero, dominando o Back-end, Front-end e o Mobile com uma única API.
 </h2>
 
+<h1 align="center"><img src="IMG/heroes.png" alt="hero" height="250" />
 
 ## Tecnologias utilizadas: <br>
 <h3>
