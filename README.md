@@ -9,10 +9,11 @@ Em uma semana foi desenvolvida essa aplicação foi desenvolvida do zero, domina
 
 ## Tecnologias utilizadas: <br>
 <h3>
-Node.js  – Backend <br>
-React – Frontend Web <br>
-React Native / Expo – Mobile <br>
-SQLite – Banco de Dados <br>
+<img src="IMG/node.png" alt="hero" height="25" />             Node.js  – Backend <br>
+<img src="IMG/react.png" alt="hero" height="25" />            React – Frontend Web <br>
+<img src="IMG/react-native.png" alt="hero" height="25" /> / <img src="IMG/expo.png" alt="hero" height="25" />   
+  React Native / Expo – Mobile <br>
+<img src="IMG/sqlite.png" alt="hero" height="25" />           SQLite – Banco de Dados <br>
 
 </h3>
 
@@ -25,6 +26,19 @@ Digite ```npm install``` dentro na pasta Backend, para instalar as dependências
 Após instalar e startar o backend, você deverá abrir outro prompt de comando, vá até a pasta frontend digite ```npm install``` para instalar as dependências ao React, em seguida digite ```npm start```, ele irá abrir uma janela em seu navegador na porta <strong>Localhost:3333</strong>. .<br>
 Em seguida abra outro prompt de comando vá até a pasta mobile, digite ```npm install``` novamente, para instalar as dependências ao React native, em seguida digite ```npm start``` que irá iniciar o servidor de desenvolvimento expo. .<br>
 
+## Layout da aplicação WEB
+
+<img src="IMG/print1.png" alt="web"/><br>
+<img src="IMG/print2.png" alt="web"/><br>
+<img src="IMG/print3.png" alt="web"/><br>
+<img src="IMG/print4.png" alt="web"/><br>
+
+# Layout da aplicação MOBILE
+
+
+<img src="IMG/print5.png" alt="web"/>
+<img src="IMG/print6.png" alt="web"/>
+<img src="IMG/print7.png" alt="web"/>
 
 
 <h1 align="center"><img src="IMG/logo.png" alt="logo be the hero"/>
