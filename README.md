@@ -19,11 +19,11 @@ SQLite – Banco de Dados <br>
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
-<h3>Baixe-o após já ter baixado, abra a pasta, “pasta aonde você baixou” através do PowerShell ou Prompt de Comando como administrador.
+Baixe-o após já ter baixado, abra a pasta, “pasta aonde você baixou” através do PowerShell ou Prompt de Comando como administrador.
 Digite ```npm install``` dentro na pasta Backend, para instalar as dependências, após ter instalado as dependências digite ```npm start```, fazendo isso seu backend estará funcionando. .<br>
 Após instalar e startar o backend, você deverá abrir outro prompt de comando, vá até a pasta frontend digite ```npm install``` para instalar as dependências ao React, em seguida digite ```npm start```, ele irá abrir uma janela em seu navegador na porta <strong>Localhost:3333</strong>. .<br>
 Em seguida abra outro prompt de comando vá até a pasta mobile, digite ```npm install``` novamente, para instalar as dependências ao React native, em seguida digite ```npm start``` que irá iniciar o servidor de desenvolvimento expo. .<br>
-</h3>
+
 
 
 <h1 align="center"><img src="IMG/logo.png" alt="logo be the hero"/>
