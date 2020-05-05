@@ -9,10 +9,10 @@ Em uma semana foi desenvolvida essa aplicação foi desenvolvida do zero, domina
 
 ## Tecnologias utilizadas: <br>
 <h3>
-<img src="IMG/node.png" alt="hero" height="25" />             Node.js  – Backend <br>
+<img src="IMG/node.png" alt="hero" height="25" />             Node.js & Express  – Backend <br>
 <img src="IMG/react.png" alt="hero" height="25" />            React – Frontend Web <br>
 <img src="IMG/react-native.png" alt="hero" height="25" /> / <img src="IMG/expo.png" alt="hero" height="25" />   
-  React Native / Expo – Mobile <br>
+  React Native & Expo – Mobile <br>
 <img src="IMG/sqlite.png" alt="hero" height="25" />           SQLite – Banco de Dados <br>
 
 </h3>
